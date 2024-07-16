@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,godaddy.com
 
 # VPN相关
+DOMAIN-KEYWORD,v2board
 DOMAIN-SUFFIX,bajie.one
 DOMAIN-SUFFIX,bajie.run
 DOMAIN-SUFFIX,bajie.wiki
