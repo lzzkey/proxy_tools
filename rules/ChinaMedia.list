@@ -7,6 +7,9 @@
 DOMAIN-SUFFIX,0xzx.com
 DOMAIN-SUFFIX,ft.com
 
+#阿里云cdn
+DOMAIN-SUFFIX,alicdn.com
+
 # 动漫
 # > Bangumi番组计划
 DOMAIN-SUFFIX,bangumi.tv
